@@ -1,0 +1,6 @@
+Insert into tblperson values (1, 'Jade', 'j@j.com', 2)
+Insert into tblperson values (2, 'Marry', 'm@m.com', 3)
+Insert into tblperson values (3, 'Martin', 'm@ma.com', 1)
+Insert into tblperson (ID, Name, Email) values (4, 'Rob', 'r@r.com')
+Insert into tblperson values (5, 'May', 'May@may.com', 2)
+Insert into tblperson (ID, Name, Email) values (6, 'Kristy', 'k@k.com')
